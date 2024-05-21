@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.PitchPerfect" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.PitchPerfect.Splash" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your splash screen theme here -->
+        <item name="android:windowBackground">@drawable/ic_launcher_background</item>
+        <!-- You can add more customizations if needed -->
+    </style>
+</resources>
